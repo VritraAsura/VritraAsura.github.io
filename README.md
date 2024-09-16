@@ -1,8 +1,3 @@
-
-Aqui está o código atualizado para o README.md, incluindo um parágrafo no lado direito com uma mensagem de boas-vindas e uma explicação de que esta página faz parte de uma atividade do curso de Ciência da Computação:
-
-markdown
-Copiar código
 # Página Dividida com Imagem e Título
 
 <div style="display: flex; height: 100vh; margin: 0; padding: 0; background-color: #121212; overflow: hidden;">
