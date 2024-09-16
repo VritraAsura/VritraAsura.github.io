@@ -61,10 +61,5 @@
             </div>
             <h1>Vitra Asura/h1>
         </div>
-
-        <!-- Lado direito (vazio ou personalizável) -->
-        <div class="right">
-            <!-- Conteúdo opcional -->
-        </div>
     </div>
 </body>
