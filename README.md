@@ -57,7 +57,7 @@
         <div class="left">
             <div class="image">
                 <!-- Imagem vinda de um link -->
-                <img src="https://via.placeholder.com/400](https://oldschool.runescape.wiki/images/thumb/V_sigil_detail.png/1200px-V_sigil_detail.png?3a2b6)" alt="Imagem de exemplo">
+                <img src="https://oldschool.runescape.wiki/images/thumb/V_sigil_detail.png/1200px-V_sigil_detail.png?3a2b6" alt="Imagem de exemplo">
             </div>
             <h1>Vitra Asura/h1>
         </div>
