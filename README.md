@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -37,7 +35,6 @@
         .image {
             height: 50vh; /* 50% da altura da tela */
             width: 50vh;  /* Manter a imagem quadrada */
-            background-color: #333; /* Cor de fundo para a imagem (placeholder) */
             display: flex;
             justify-content: center;
             align-items: center;
@@ -46,6 +43,7 @@
         .image img {
             max-width: 100%;
             max-height: 100%;
+            border-radius: 5px; /* Borda arredondada (opcional) */
         }
 
         h1 {
@@ -61,15 +59,15 @@
         <!-- Lado esquerdo -->
         <div class="left">
             <div class="image">
-                <img src="sua-imagem-aqui.jpg" alt="Imagem">
+                <!-- Imagem vinda de um link -->
+                <img src="https://via.placeholder.com/400" alt="Imagem de exemplo">
             </div>
             <h1>Título da Imagem</h1>
         </div>
 
         <!-- Lado direito (vazio ou personalizável) -->
         <div class="right">
-            <!-- Você pode adicionar conteúdo aqui, se necessário -->
+            <!-- Conteúdo opcional -->
         </div>
     </div>
 </body>
-</html>
